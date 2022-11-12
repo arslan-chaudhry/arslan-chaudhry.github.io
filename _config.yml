@@ -1,7 +1,7 @@
 # Setup
 title:        Arslan Chaudhry
 tagline:      Machine Learning/ AI Researcher & Rhodes Scholar, University of Oxford
-email:        arslan dot chaudhry at eng dot ox dot ac dot uk
+email:        arslan dot ch at deepmind dot com
 baseurl:      ""
 paginate:     1
 
@@ -11,8 +11,9 @@ author:
   url:        https://arslan-chaudhry.github.io/
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 #Others
 markdown: kramdown
